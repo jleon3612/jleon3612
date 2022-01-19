@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jleon3612
 - 👀 I’m interested in metagenomic and RNA-seq analysis 
-- 🌱 I’m currently learning RNA seq analysis and differential gene expressions
+- 🌱 I’m currently learning RNA seq analysis and differential gene expression analysis 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
